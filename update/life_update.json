@@ -1,7 +1,7 @@
 {
   "packageName": "com.example.life",
-  "latestVersionCode": 999,
-  "latestVersionName": "1.4.8",
+  "latestVersionCode": 12,
+  "latestVersionName": "1.5.0",
   "apkUrl": "https://github.com/Murcego007/life-updates/releases/download/v.1.4.8/life-1.4.8.apk",
   "checksumSha256": "73648B6D1CBB420A07227276E0D3FA5DCAC06C1D7B80CEF60626CB7C7F448745",
   "changelog": [
