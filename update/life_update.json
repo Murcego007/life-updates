@@ -1,9 +1,9 @@
 {
   "packageName": "com.example.life",
   "latestVersionCode": 13,
-  "latestVersionName": "1.5.1",
-  "apkUrl": "https://github.com/Murcego007/life-updates/releases/download/v1.5.1/LIFE-1.5.1.apk",
-  "checksumSha256": "861A648678A8BA606F0C16BC7647A007C760CA1E7A70E8EF24A5FD35BF222AF9",
+  "latestVersionName": "1.5.2",
+  "apkUrl": "https://github.com/Murcego007/life-updates/releases/download/V1.5.2/LIFE-1.5.2.apk",
+  "checksumSha256": "78F38C97541F8076C4C8FF7DD4652CE99C443C939631FB2DF693875BF93117DC",
   "changelog": [
     "Teste do sistema de verificação de atualização",
     "Validação da comunicação entre o LIFE e o GitHub",
