@@ -1,0 +1,14 @@
+{
+  "packageName": "com.example.life",
+  "latestVersionCode": 999,
+  "latestVersionName": "Teste de atualização",
+  "apkUrl": "https://github.com/Murcego0007/life-updates",
+  "checksumSha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "changelog": [
+    "Teste do sistema de verificação de atualização",
+    "Validação da comunicação entre o LIFE e o GitHub",
+    "Nenhum download de APK será feito nesta fase"
+  ],
+  "forceUpdate": false,
+  "publishedAt": "2026-06-07T12:00:00Z"
+}
