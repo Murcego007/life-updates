@@ -1,8 +1,8 @@
 {
     "latestVersionName":  "1.5.3",
-    "publishedAt":  "2026-06-08T08:49:23Z",
+    "publishedAt":  "2026-06-08T10:01:38Z",
     "latestVersionCode":  14,
-    "checksumSha256":  "b4c66964c64d98b467b2a40723648bc27d3ac53c8712c30376a0a52da139bd97",
+    "checksumSha256":  "85cbf937a233153efe46b379288af8b5a5923c88e969376e2b976697f2baa153",
     "forceUpdate":  false,
     "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.3/LIFE-1.5.3.apk",
     "packageName":  "com.example.life",
