@@ -1,14 +1,13 @@
 {
-  "packageName": "com.example.life",
-  "latestVersionCode": 13,
-  "latestVersionName": "1.5.2",
-  "apkUrl": "https://github.com/Murcego007/life-updates/releases/download/V1.5.2/LIFE-1.5.2.apk",
-  "checksumSha256": "78F38C97541F8076C4C8FF7DD4652CE99C443C939631FB2DF693875BF93117DC",
-  "changelog": [
-    "Teste do sistema de verificação de atualização",
-    "Validação da comunicação entre o LIFE e o GitHub",
-    "A instalação ainda não será feita nesta fase"
-  ],
-  "forceUpdate": false,
-  "publishedAt": "2026-06-07T12:00:00Z"
+    "latestVersionName":  "1.5.3",
+    "publishedAt":  "2026-06-07T23:55:29Z",
+    "latestVersionCode":  14,
+    "checksumSha256":  "5f9fab3daf45eed27d207d2e3b9bb2d0dfb660caaea55e0bb0bd92379b0de2e2",
+    "forceUpdate":  false,
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.3/LIFE-1.5.3.apk",
+    "packageName":  "com.example.life",
+    "changelog":  [
+                      "Melhorias internas no sistema de publicação",
+                      "Teste real da automação de atualização"
+                  ]
 }
