@@ -1,12 +1,13 @@
 {
-    "latestVersionName":  "1.5.4",
-    "publishedAt":  "2026-06-08T14:27:10Z",
-    "latestVersionCode":  15,
-    "checksumSha256":  "faf5381e65535c48355d42fb84ac3ca4317689adfe4f0e8f460261293ac05b12",
+    "latestVersionName":  "1.5.5",
+    "publishedAt":  "2026-06-08T18:23:10Z",
+    "latestVersionCode":  16,
+    "checksumSha256":  "8113826ca6783848cf54998ad35f53daf129e67027649f68f90007cee4fb11ed",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.4/LIFE-1.5.4.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.5/LIFE-1.5.5.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Nova API Gemini"
+                      "- Sistema de hábitos mais refinados",
+                      "- Nome TAREFAS aparece na aba tarefas"
                   ]
 }
