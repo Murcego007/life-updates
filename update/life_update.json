@@ -1,13 +1,12 @@
 {
-    "latestVersionName":  "1.5.3",
-    "publishedAt":  "2026-06-08T10:01:38Z",
-    "latestVersionCode":  14,
-    "checksumSha256":  "85cbf937a233153efe46b379288af8b5a5923c88e969376e2b976697f2baa153",
+    "latestVersionName":  "1.5.4",
+    "publishedAt":  "2026-06-08T14:27:10Z",
+    "latestVersionCode":  15,
+    "checksumSha256":  "faf5381e65535c48355d42fb84ac3ca4317689adfe4f0e8f460261293ac05b12",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.3/LIFE-1.5.3.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.4/LIFE-1.5.4.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Correção da assinatura do APK",
-                      "Reenvio da versão 1.5.3 assinada corretamente"
+                      "Nova API Gemini"
                   ]
 }
