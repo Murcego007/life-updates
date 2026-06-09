@@ -1,12 +1,15 @@
 {
-    "latestVersionName":  "1.5.7",
-    "publishedAt":  "2026-06-08T21:35:56Z",
-    "latestVersionCode":  18,
-    "checksumSha256":  "e774f625453c58f570ed2b1be5cfbb6241b2a2b80a7aa65da82c94196f92e8e9",
+    "latestVersionName":  "1.5.8",
+    "publishedAt":  "2026-06-08T22:43:59Z",
+    "latestVersionCode":  19,
+    "checksumSha256":  "21f56fb60c3798ed0d1e5888bf0120d9dbb3e202e345c4ce40f3b331650cc0bc",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.7/LIFE-1.5.7.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.8/LIFE-1.5.8.apk",
     "packageName":  "com.example.life",
     "changelog":  [
+                      "Correção da criação de pilares com cor e ícone corretos",
+                      "Correção do crash ao editar pilares",
+                      "Melhoria no layout dos botões de ação dos pilares",
                       "Correções em Pilares e Hábitos"
                   ]
 }
