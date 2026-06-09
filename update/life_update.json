@@ -1,13 +1,12 @@
 {
-    "latestVersionName":  "1.5.6",
-    "publishedAt":  "2026-06-08T21:01:00Z",
-    "latestVersionCode":  17,
-    "checksumSha256":  "dd53aad9d492492eae0f9a77249c7ee90cc44f488c3f79f459bc08e5af3c5747",
+    "latestVersionName":  "1.5.7",
+    "publishedAt":  "2026-06-08T21:35:56Z",
+    "latestVersionCode":  18,
+    "checksumSha256":  "e774f625453c58f570ed2b1be5cfbb6241b2a2b80a7aa65da82c94196f92e8e9",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.6/LIFE-1.5.6.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.7/LIFE-1.5.7.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Polimento de aba TAREFAS",
-                      "Polimmento da sessão PILARES E HÁBITOS na aba ajustes "
+                      "Correções em Pilares e Hábitos"
                   ]
 }
