@@ -1,13 +1,13 @@
 {
-    "latestVersionName":  "1.5.5",
-    "publishedAt":  "2026-06-08T18:23:10Z",
-    "latestVersionCode":  16,
-    "checksumSha256":  "8113826ca6783848cf54998ad35f53daf129e67027649f68f90007cee4fb11ed",
+    "latestVersionName":  "1.5.6",
+    "publishedAt":  "2026-06-08T21:01:00Z",
+    "latestVersionCode":  17,
+    "checksumSha256":  "dd53aad9d492492eae0f9a77249c7ee90cc44f488c3f79f459bc08e5af3c5747",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.5/LIFE-1.5.5.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.6/LIFE-1.5.6.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "- Sistema de hábitos mais refinados",
-                      "- Nome TAREFAS aparece na aba tarefas"
+                      "Polimento de aba TAREFAS",
+                      "Polimmento da sessão PILARES E HÁBITOS na aba ajustes "
                   ]
 }
