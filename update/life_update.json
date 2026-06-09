@@ -1,15 +1,15 @@
 {
-    "latestVersionName":  "1.5.8",
-    "publishedAt":  "2026-06-08T22:43:59Z",
-    "latestVersionCode":  19,
-    "checksumSha256":  "21f56fb60c3798ed0d1e5888bf0120d9dbb3e202e345c4ce40f3b331650cc0bc",
+    "latestVersionName":  "1.5.9",
+    "publishedAt":  "2026-06-09T10:24:14Z",
+    "latestVersionCode":  20,
+    "checksumSha256":  "ead65457dd76ea16ef6f6235794a643b572a5ce75f0dd3c749bcf9d88c355a39",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.8/LIFE-1.5.8.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.9/LIFE-1.5.9.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Correção da criação de pilares com cor e ícone corretos",
-                      "Correção do crash ao editar pilares",
-                      "Melhoria no layout dos botões de ação dos pilares",
-                      "Correções em Pilares e Hábitos"
+                      "Correção do agrupamento de hábitos por grupos reais",
+                      "Remoção da seção artificial “Outros dias”",
+                      "Hábitos indisponíveis no dia continuam visíveis, mas bloqueados",
+                      "Melhoria na organização da aba Hábitos"
                   ]
 }
