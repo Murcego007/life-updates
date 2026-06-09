@@ -1,12 +1,12 @@
 {
     "latestVersionName":  "1.6.0",
-    "publishedAt":  "2026-06-09T10:54:22Z",
-    "latestVersionCode":  20,
-    "checksumSha256":  "4941c95a4a30c1ae0761ce89e32bafd7fe243a8801b9a8e8a556745580600c67",
+    "publishedAt":  "2026-06-09T10:59:49Z",
+    "latestVersionCode":  21,
+    "checksumSha256":  "b8ff0472ab2bc1039f93b282d36297a0ca3c877c37bb36e01e0063ee0daf68c0",
     "forceUpdate":  false,
     "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.0/LIFE-1.6.0.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Remoção do Botão \"Mover Pilar\" dentros do pilar na sessão PILARES E HÁBITOS"
+                      "Remoção do botão \"Mover Pilar\" na sessão PILARES E HÁBITOS na aba ajustes dentro dos pilares "
                   ]
 }
