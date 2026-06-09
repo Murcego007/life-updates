@@ -1,15 +1,12 @@
 {
-    "latestVersionName":  "1.5.9",
-    "publishedAt":  "2026-06-09T10:24:14Z",
+    "latestVersionName":  "1.6.0",
+    "publishedAt":  "2026-06-09T10:54:22Z",
     "latestVersionCode":  20,
-    "checksumSha256":  "ead65457dd76ea16ef6f6235794a643b572a5ce75f0dd3c749bcf9d88c355a39",
+    "checksumSha256":  "4941c95a4a30c1ae0761ce89e32bafd7fe243a8801b9a8e8a556745580600c67",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.5.9/LIFE-1.5.9.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.0/LIFE-1.6.0.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Correção do agrupamento de hábitos por grupos reais",
-                      "Remoção da seção artificial “Outros dias”",
-                      "Hábitos indisponíveis no dia continuam visíveis, mas bloqueados",
-                      "Melhoria na organização da aba Hábitos"
+                      "Remoção do Botão \"Mover Pilar\" dentros do pilar na sessão PILARES E HÁBITOS"
                   ]
 }
