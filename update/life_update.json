@@ -1,16 +1,17 @@
 {
-    "latestVersionName":  "1.6.1",
-    "publishedAt":  "2026-06-10T00:08:40Z",
-    "latestVersionCode":  22,
-    "checksumSha256":  "186bdb177094682182ae8962a9833db916e02ce4d1aded16dfd3279701db845e",
+    "latestVersionName":  "1.6.2",
+    "publishedAt":  "2026-06-11T21:31:32Z",
+    "latestVersionCode":  23,
+    "checksumSha256":  "ed2cbd14d7235843b128a4281baa878351b41942a3513f74ca84ab8c165ca5df",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.1/LIFE-1.6.1.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.2/LIFE-1.6.2.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Correção da rolagem em pilares com muitos hábitos",
-                      "Últimos hábitos agora ficam visíveis acima da barra inferior",
-                      "Melhoria na navegação da aba Hábitos",
-                      "Correção do agrupamento de hábitos por grupos reais",
-                      "Remoção da opção de mover hábito entre pilares"
+                      "Correção no Caderno ao escrever com o teclado aberto",
+                      "A folha agora sobe para manter o texto visível",
+                      "Correção do bug que fazia o caderno voltar sozinho para a primeira folha",
+                      "Correção da navegação ao criar novas folhas",
+                      "Nova folha criada agora é aberta automaticamente",
+                      "Melhoria no salvamento automático durante a escrita"
                   ]
 }
