@@ -1,10 +1,10 @@
 {
-    "latestVersionName":  "1.6.2",
-    "publishedAt":  "2026-06-11T21:31:32Z",
-    "latestVersionCode":  23,
-    "checksumSha256":  "ed2cbd14d7235843b128a4281baa878351b41942a3513f74ca84ab8c165ca5df",
+    "latestVersionName":  "1.6.3",
+    "publishedAt":  "2026-06-11T22:21:04Z",
+    "latestVersionCode":  24,
+    "checksumSha256":  "d94f0bdf483f27797d4e20863255211ca4517d53d6c6b69e74c14a40fb38313a",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.2/LIFE-1.6.2.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.3/LIFE-1.6.3.apk",
     "packageName":  "com.example.life",
     "changelog":  [
                       "Correção no Caderno ao escrever com o teclado aberto",
@@ -12,6 +12,8 @@
                       "Correção do bug que fazia o caderno voltar sozinho para a primeira folha",
                       "Correção da navegação ao criar novas folhas",
                       "Nova folha criada agora é aberta automaticamente",
-                      "Melhoria no salvamento automático durante a escrita"
+                      "Remoção das notas do Caderno da aba Início",
+                      "A aba Início agora fica focada no gráfico de raio",
+                      "Toque no ícone Caderno agora volta para a tela inicial da aba"
                   ]
 }
