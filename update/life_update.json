@@ -1,19 +1,18 @@
 {
-    "latestVersionName":  "1.6.3",
-    "publishedAt":  "2026-06-11T22:21:04Z",
-    "latestVersionCode":  24,
-    "checksumSha256":  "d94f0bdf483f27797d4e20863255211ca4517d53d6c6b69e74c14a40fb38313a",
+    "latestVersionName":  "1.6.4",
+    "publishedAt":  "2026-06-26T20:40:01Z",
+    "latestVersionCode":  25,
+    "checksumSha256":  "445b0e872d0571439997a8ba84cfefc17013edf964963bfec8121d65e758a3c6",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.3/LIFE-1.6.3.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.4/LIFE-1.6.4.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Correção no Caderno ao escrever com o teclado aberto",
-                      "A folha agora sobe para manter o texto visível",
-                      "Correção do bug que fazia o caderno voltar sozinho para a primeira folha",
-                      "Correção da navegação ao criar novas folhas",
-                      "Nova folha criada agora é aberta automaticamente",
-                      "Remoção das notas do Caderno da aba Início",
-                      "A aba Início agora fica focada no gráfico de raio",
-                      "Toque no ícone Caderno agora volta para a tela inicial da aba"
+                      "Hábitos agora reiniciam corretamente ao virar o dia",
+                      "Histórico diário preservado por data",
+                      "Gráfico de raio e pilares agora respeitam a data selecionada",
+                      "Novo sistema de notificações nativas para tarefas",
+                      "Lembretes configuráveis de 0 a 60 minutos antes da tarefa",
+                      "Correção de estabilidade do cursor no Caderno",
+                      "Melhorias no salvamento automático durante a escrita"
                   ]
 }
