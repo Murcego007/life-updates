@@ -1,21 +1,12 @@
 {
-    "latestVersionName":  "1.6.5",
-    "publishedAt":  "2026-06-29T17:46:29Z",
-    "latestVersionCode":  26,
-    "checksumSha256":  "23127337fc6fbb5ab94b3c6c951f9fa5b3774929acf4e0f30ce5a3e825e41def",
+    "latestVersionName":  "1.6.6",
+    "publishedAt":  "2026-07-25T21:29:41Z",
+    "latestVersionCode":  27,
+    "checksumSha256":  "0cec5135d2a5b8107dfdd1adead17205f1ea5afbb442c4e520c73f27605bfa0f",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.5/LIFE-1.6.5.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.6/LIFE-1.6.6.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Hábitos agora reiniciam corretamente ao virar o dia",
-                      "Histórico diário preservado por data",
-                      "Hábitos agora respeitam os dias ativos configurados",
-                      "Hábitos indisponíveis continuam visíveis, mas bloqueados",
-                      "Progresso dos pilares agora considera apenas hábitos devidos na data",
-                      "Gráfico de raio agora respeita os hábitos previstos para o dia",
-                      "Novo sistema de notificações nativas para tarefas",
-                      "Lembretes configuráveis de 0 a 60 minutos antes da tarefa",
-                      "Correção de estabilidade do cursor no Caderno",
-                      "Melhorias no salvamento automático durante a escrita"
+                      "Novo sistema de datas para a aba TAREFAS "
                   ]
 }
