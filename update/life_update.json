@@ -1,12 +1,12 @@
 {
-    "latestVersionName":  "1.6.6",
-    "publishedAt":  "2026-07-25T21:29:41Z",
-    "latestVersionCode":  27,
-    "checksumSha256":  "0cec5135d2a5b8107dfdd1adead17205f1ea5afbb442c4e520c73f27605bfa0f",
+    "latestVersionName":  "1.6.7",
+    "publishedAt":  "2026-07-25T21:54:32Z",
+    "latestVersionCode":  28,
+    "checksumSha256":  "e69adfb92b7b61c02bf0f2c8be46fd223634508524e1a020e2c9c4f49319e15c",
     "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.6/LIFE-1.6.6.apk",
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.7/LIFE-1.6.7.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Novo sistema de datas para a aba TAREFAS "
+                      "Correções no sistema de atualização "
                   ]
 }
