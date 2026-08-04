@@ -1,12 +1,12 @@
 {
-    "latestVersionName":  "1.6.7",
-    "publishedAt":  "2026-07-25T21:54:32Z",
-    "latestVersionCode":  28,
-    "checksumSha256":  "e69adfb92b7b61c02bf0f2c8be46fd223634508524e1a020e2c9c4f49319e15c",
-    "forceUpdate":  false,
-    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.7/LIFE-1.6.7.apk",
+    "latestVersionName":  "1.6.8",
+    "publishedAt":  "2026-08-04T11:38:12Z",
+    "latestVersionCode":  29,
+    "checksumSha256":  "823b822501bd2082f2a843c332b6406f82b4ced2f56467564c755c4b98a11489",
+    "forceUpdate":  true,
+    "apkUrl":  "https://github.com/Murcego007/life-updates/releases/download/v1.6.8/LIFE-1.6.8.apk",
     "packageName":  "com.example.life",
     "changelog":  [
-                      "Correções no sistema de atualização "
+                      "Pausa temporária das abas FINANÇAS e CADERNO"
                   ]
 }
